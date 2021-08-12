@@ -1,2 +1,2 @@
 # data-engineering-essentials
-playground for data-engineering-essentials course on Udemy
+data-engineering-essentials with python, sql, pyspark, hdfs
