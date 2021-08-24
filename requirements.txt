@@ -1,0 +1,4 @@
+jupyterlab
+psycopg2
+ipython-sql
+pyspark
